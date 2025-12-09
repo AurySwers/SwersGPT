@@ -1,4 +1,4 @@
-SwersGPT
+# **SwersGPT**
 <img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/305ab83e-ce8f-4ee7-a38e-156a1ad798a1" />
 Hızlı, gizliliğe önem veren, Groq API ile çalışan açık kaynak masaüstü yapay zeka asistanı
 SwersGPT
